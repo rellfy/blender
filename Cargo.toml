@@ -1,0 +1,12 @@
+[package]
+name = "blender"
+version = "0.0.0"
+authors = ["Lorenzo Fontoura <lorenzo@nioel.com>"]
+edition = "2018"
+description = "blender"
+repository = "https://github.com/rellfy/blender"
+homepage = "https://github.com/rellfy/blender"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
